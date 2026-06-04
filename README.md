@@ -100,5 +100,5 @@ npm run dev
 
 This project helped to understand the fundamentals of decentralized applications and blockchain development. It demonstrates how smart contracts can be integrated with modern web technologies to build secure and interactive Web3 applications.
 
-##Live Demo
+## Project Live Demo
 https://staking-dapp-three-kohl.vercel.app/
