@@ -99,3 +99,6 @@ npm run dev
 <img width="514" height="321" alt="Screenshot 2026-06-04 113801" src="https://github.com/user-attachments/assets/16749055-2fc6-4fcc-86c9-3b104071e86d" />
 
 This project helped to understand the fundamentals of decentralized applications and blockchain development. It demonstrates how smart contracts can be integrated with modern web technologies to build secure and interactive Web3 applications.
+
+##Live Demo
+https://staking-dapp-three-kohl.vercel.app/
